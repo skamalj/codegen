@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "enableHibernateCache": true,
+    "enableSwaggerCodegen": false,
+    "enableTranslation": true,
+    "jhiPrefix": "jhi",
+    "languages": [
+      "en",
+      "fr"
+    ],
+    "messageBroker": false,
+    "nativeLanguage": "en",
+    "packageName": "com.mycompany.myapp",
+    "packageFolder": "com/mycompany/myapp",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "serviceDiscoveryType": "eureka",
+    "skipClient": true,
+    "testFrameworks": [],
+    "websocket": false,
+    "baseName": "appa",
+    "applicationType": "microservice",
+    "jhipsterVersion": "6.4.1",
+    "buildTool": "maven",
+    "skipUserManagement": true,
+    "clientPackageManager": "npm",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "serverPort": "8081",
+    "jwtSecretKey": "YmRjZjU4YzE1ODgxYTcxMGVkNzdlYmE5NmVkMmY5ZTEyMmIwZjAxMDVmNzQ2Yzk4ZWNmZWMwYThiNmRhNDc5N2YwN2NkNGFlNTBiMDVmZDdmYmU4ZmEyZDE4ZGE0Nzc5OGZhMjI5YmY0NWY4MzRmNTYwODJjNzZjMTc4NzFjZjk=",
+    "embeddableLaunchScript": false,
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "entities": []
+}
